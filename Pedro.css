@@ -459,5 +459,7 @@ footer .copyright{
         justify-content: flex-end;
         color: white;
         font-size: 5px;
+        background-color: black;
+        width: 50px;
     }
 }
