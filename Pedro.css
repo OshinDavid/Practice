@@ -454,7 +454,7 @@ footer .copyright{
 /* media query */
 @media (max-width:799px) {
     #navbar {
-        display: flex;
+        
         align-items: flex-end;
         justify-content: flex-end;
         color: white;
